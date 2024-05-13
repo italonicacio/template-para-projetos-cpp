@@ -53,4 +53,4 @@ O*CMakeLists.txt* dos testes quando se quer adicionar um novo arquivo de testes 
 
 Espero que o template seja util para vocês como é para mim.
 
-**Repositório com o código:** <https://github.com/italonicacio/project-templates/tree/main/templates/cpp/with-cmake>
+**Repositório com o template:** <https://github.com/italonicacio/project-templates/tree/main/templates/cpp/with-cmake>
